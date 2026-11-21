@@ -27,3 +27,22 @@ Buka `index.html` menggunakan browser secara offline.
 
 Daftar fitur dan hasil pengujian lengkap akan dilengkapi sesuai
 instruksi Paket 3. Jangan mengerjakan bagian tersebut pada Paket 1.
+
+## Fitur yang berhasil dibuat
+Tampil, tambah, cari, hapus, dan menghitung jumlah.
+
+## Judul dan Tujuan singkat aplikasi
+Aplikasi Pengelola Kelas
+Tujuan : Untuk mengelola kegiatan kelas dengan teratur dan teliti.
+
+## Teknologi
+HTML, CSS, JavaScript.
+
+## Cara menjalankan aplikasi secara offline
+Membuka index.html di browser.
+
+## Ringkasan hasil ujian
+Menambah, Mencari, dan Menghapus daftar kegiatan. Hasilnya sesuai yang diminta.
+Tambah kegiatan baru = Data muncul;jumlah naik. Sesuai
+Cari kegiatan tidak ada = Pesan tidak ditemukan. Sesuai
+Menghapus kegiatan = Kegiatan berhasil dihapus. Sesuai

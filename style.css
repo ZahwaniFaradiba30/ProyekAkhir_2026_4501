@@ -28,7 +28,7 @@ body {
   max-width: 800px;
   margin: 30px auto;
   padding: 25px;
-  border: 1px solid white;
+  border: 1px solid black;
   border-radius: 12px;
   background-color: white;
 }
@@ -41,7 +41,7 @@ body {
 .panel {
   padding: 20px;
   margin-bottom: 20px;
-  border: 1px solid white;
+  border: 1px solid black;
   border-radius: 8px;
 }
 
@@ -61,7 +61,7 @@ body {
   width: 100%;
   padding: 12px;
   font-size: 15px;
-  border: 1px solid white;
+  border: 1px solid black;
   border-radius: 6px;
 }
 
@@ -73,7 +73,7 @@ body {
 
 .aksi button {
   padding: 10px 20px;
-  background-color: bisque;
+  background-color: darkblue;
   color:darkgray;
   border: none;
   border-radius: 6px;
@@ -100,19 +100,19 @@ body {
 
 #pesanStatus {
   padding: 12px;
-  background-color: black;
+  background-color: slategrey;
   border-radius: 6px;
 }
 
 #pesanStatus.berhasil {
   color: antiquewhite;
-  background-color:navajowhite;
+  background-color: black;
   border-radius: 6px;
 }
 
 #pesanStatus.gagal {
   padding: 12px;
   background-color: white;
-  color: beige;
+  color: black;
   border-radius: 6px;
 }
